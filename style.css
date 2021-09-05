@@ -112,7 +112,13 @@ p {
     }
 
     .texto-2 {
+        padding: 7rem;
         margin-top: -5vw;
+        font-size: 3vw;
+    }
+
+    .botão-contato {
+        padding: 3rem;
         font-size: 3vw;
     }
 
